@@ -62,3 +62,16 @@ Flag: **RESTCON{RESTCON_ANOTHER_BASIC_FLAG}**
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/1-2.png)
 ***
+flag submitted by [_@106_Sam_](https://www.instagram.com/106_sam/) , **CTF Team member**
+
+This flag took me only 25 seconds to capture. As in above image “Your Flag is hear” and a undefined image link. Simply i did a **right click > copy Image location** and created new tab and paste the image link
+---
+![](https://samaritan106.files.wordpress.com/2020/08/2-2.png?w=1024)
+***
+It was showing **“404 error”** with **“File not found, Sorry about that”** Then i looked at the URL there i saw **“https://ctf.resethacker/`RESTCON{HIDD3N}`“**
+
+---
+![](https://samaritan106.files.wordpress.com/2020/08/3-1.png?w=1024)
+***
+Flag: RESTCON{HIDD3N}
+> _Note: "HIDD3N" is a Basic leetspeak language 
