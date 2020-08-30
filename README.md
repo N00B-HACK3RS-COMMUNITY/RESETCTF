@@ -57,3 +57,8 @@ Got to know that it is ASCII85 by searching on [cryptii](https://cryptii.com/) w
 ![](https://samaritan106.files.wordpress.com/2020/08/3.png?w=1024)
 ***
 Flag: **RESTCON{RESTCON_ANOTHER_BASIC_FLAG}**
+
+# Broken 
+---
+![](https://samaritan106.files.wordpress.com/2020/08/1-2.png)
+***
