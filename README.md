@@ -81,6 +81,8 @@ Flag: RESTCON{HIDD3N}
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/1-4.png)
 ***
+flag submitted by [_@106_Sam_](https://www.instagram.com/106_sam/) , **CTF Team member**
+
 This challenge gave us a file named “garbage.txt” which was corrupted. As this file got corrupted the file got itself converted into binary data.
 
 So first step i did when i downloaded this file using linux command **“wget”** is i used Command **“file (file-name)”** to check what type of Data is inside the file **garbage.txt**
@@ -99,3 +101,8 @@ there is another way of finding the flag just use command **“strings (file-nam
 ![](https://samaritan106.files.wordpress.com/2020/08/3-2.png?w=1024)
 ***
 Flag : **RESTCON{GR3P_7HE_FL4G}**
+
+# Weirdo: 1
+---
+![](https://samaritan106.files.wordpress.com/2020/08/1-5.png)
+***
