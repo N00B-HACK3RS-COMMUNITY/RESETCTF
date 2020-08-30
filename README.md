@@ -106,3 +106,23 @@ Flag : **RESTCON{GR3P_7HE_FL4G}**
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/1-5.png)
 ***
+flag submitted by [_@106_Sam_](https://www.instagram.com/106_sam/) , **CTF Team member**
+
+When i clicked **“File”** a file named **“weirdo1.txt”** was download. When i **“cat weirdo1.txt"**. There was lot of symbols, alphabets, and etc. It took so much time to figure out what can this message be i tried reversing and i was checking for metadata of the file etc. Then i thought it might be some other type of morse code(but it wan’t). After doing much research got to know that it is **“Malbolge Programming Language”**.
+
+---
+[](https://samaritan106.files.wordpress.com/2020/08/2-4.png?w=1024)
+***
+>_Note: Malbolge, invented by Ben Olmstead in 1998, is an esoteric programming language designed to be as difficult to program in as possible. And so it is 🙂 _
+
+I used a online interpreter to compile and capturing the flag [Malbolge](http://malbolge.doleczek.pl/)
+
+---
+![](https://samaritan106.files.wordpress.com/2020/08/3-3.png?w=1024)
+***
+Flag: **RESTCON{Malb0lg3_is_cool}**
+
+# In Plain Sight
+---
+![](https://miro.medium.com/max/487/1*X9vBfiYzOYtM1xDLo2Ix2g.png)
+***
