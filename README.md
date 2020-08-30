@@ -74,4 +74,10 @@ It was showing **“404 error”** with **“File not found, Sorry about that”
 ![](https://samaritan106.files.wordpress.com/2020/08/3-1.png?w=1024)
 ***
 Flag: RESTCON{HIDD3N}
-> _Note: "HIDD3N" is a Basic leetspeak language 
+> _Note: "HIDD3N" is a Basic form of leetspeak language
+
+# Garbage
+
+---
+![](https://samaritan106.files.wordpress.com/2020/08/1-4.png)
+***
