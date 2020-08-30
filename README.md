@@ -1,5 +1,4 @@
-# RESETCTF
-ResetConCTF Writeups
+# RESTCON CTF Writeup
 ---
 Organised by _Resethackers_ 
 Date: _28 August 2020 10:30AM - 12:00 AM (IST)_
@@ -57,3 +56,4 @@ Got to know that it is ASCII85 by searching on [cryptii](https://cryptii.com/) w
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/3.png?w=1024)
 ***
+Flag: **RESTCON{RESTCON_ANOTHER_BASIC_FLAG}**
