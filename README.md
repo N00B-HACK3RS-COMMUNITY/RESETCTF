@@ -5,11 +5,11 @@ Date: _28 August 2020 10:30AM - 12:00 AM (IST)_
 ***
 writeup by [@106_Sam](https://www.instagram.com/106_sam/)
 ---
-My Team Name: Q_For_Quaratine ([@N00B_Hack3r_Community](https://www.instagram.com/noob_hack3rs_community/))
+Team Name: Q_For_Quaratine ([@N00B_Hack3r_Community](https://www.instagram.com/noob_hack3rs_community/))
 We secured 68th rank out of 380 teams
 Congratulation to Top 10 teams (Just go grab the prizes)
 ---
-![](https://www.instagram.com/tv/CEcgeL3p3XS/?utm_source=ig_web_copy_link)
+[Click to see the video of RESTCON CTF](https://www.instagram.com/tv/CEcgeL3p3XS/?utm_source=ig_web_copy_link)
 ***
 ## Basic Challenges:
 
