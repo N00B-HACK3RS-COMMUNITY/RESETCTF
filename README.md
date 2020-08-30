@@ -81,3 +81,21 @@ Flag: RESTCON{HIDD3N}
 ---
 ![](https://samaritan106.files.wordpress.com/2020/08/1-4.png)
 ***
+This challenge gave us a file named “garbage.txt” which was corrupted. As this file got corrupted the file got itself converted into binary data.
+
+So first step i did when i downloaded this file using linux command **“wget”** is i used Command **“file (file-name)”** to check what type of Data is inside the file **garbage.txt**
+
+Second step : i used command **“cat garbage.txt | grep RESTCON ”** to know if the flag is there in it or not. I got to know that **“Binary input(standard input) matches"**
+
+> _Note : command ‘cat’ is used to list whats inside the file , symbol ‘|’ this is called ‘Pipe’ it is used to divided the command , command ‘grep’ it is used to search the specific text from the given file and shows us._
+---
+![](https://samaritan106.files.wordpress.com/2020/08/2-3.png)
+***
+Third step : i just simply used ‘cat garbage.txt’ to list the text inside the file. The file was filled with the binary data…but at the end there was the flag **“RESTCON{GR3P_7HE_FL4GS}“**.
+
+there is another way of finding the flag just use command **“strings (file-name)”**
+
+---
+![](https://samaritan106.files.wordpress.com/2020/08/3-2.png?w=1024)
+***
+Flag : **RESTCON{GR3P_7HE_FL4G}**
